@@ -1,0 +1,6 @@
+;method;play_order;victory;draw;defeat
+0;random;1;562;116;322
+1;smart;2;679;252;69
+2;smart;1;900;90;10
+3;mcts;2;914;82;4
+4;mcts;1;980;20;0

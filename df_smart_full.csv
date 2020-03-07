@@ -1,0 +1,4 @@
+,method,play_order,victory,draw,defeat
+0,smart,1,283,524,193
+1,mcts,2,144,823,33
+2,mcts,1,613,386,1
